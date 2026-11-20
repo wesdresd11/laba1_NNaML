@@ -46,7 +46,7 @@
 | **4** | 9 961 | 19.92% | `[-2.2518,  9.1085,  4.6165,  2.1620, -6.8452]` |
 
 ### Графическое представление результатов
-[./cluster_report_metrics.png]
+![./cluster_report_metrics.png]
 
-[./cluster_report_clusters.png]
+![./cluster_report_clusters.png]
 
